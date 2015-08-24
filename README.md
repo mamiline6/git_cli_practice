@@ -1,9 +1,16 @@
-Hello This is my sample file
+# ターミナルでファイルとリポジトリを作る
 
+## インストールしたもの
+- tig
+  git でティグティグしやすくしてくれる
+- hub
+　githubでハブハブしやすくしてくれる
 
+## コマンド
 
-
-
+```sh
+$ git init
+```
 
 
 
