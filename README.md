@@ -30,7 +30,7 @@ vim のキー
 
 git で状態を確認
 ```sh
-tig status
+$ tig status
 ```
 
 
