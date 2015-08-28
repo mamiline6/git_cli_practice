@@ -32,6 +32,31 @@ git で状態を確認
 ```sh
 $ tig status
 ```
+- u ステージにあげる？
+- q もとの画面に戻る？
+- C コミットログ
+
+github にリポジトリ作成
+```sh
+$ hub create
+```
+
+リポジトリにプッシュ
+```sh
+$ git push origin master
+````
+
+github の確認
+```sh
+$ hub browse
+```
+
+
+
+
+
+
+
 
 
 
